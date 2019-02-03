@@ -1,0 +1,33 @@
+body{
+  background-color:powderblue;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 10%;
+        }
+        h2{
+          color: blue;
+        }
+         h1{
+           color: #571179;
+         }
+
+         img:hover{
+           background-color: gold;
+         }
+
+         .Driving{
+           background-color: blue;
+         }
+         .basketball{
+           background-color: purple;
+         }
+         .songs{
+           background-color: black;
+         }
+.circle{
+  border-radius: 100%;
+}
